@@ -7,7 +7,7 @@ const noBtn = document.querySelector(".no-btn");
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "I love you 3000! 😘";
   gif.src =
-    "https://media1.giphy.com/media/iCVzZwwE6QNAV2tEE0/giphy.gif";
+    "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFxcTkycGtud3Axcmh5cndmYmxvbXp5OGF3OGdoYzUzZHRlMzJ4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WOOFsm13stf44Lan8c/giphy.gif";
 });
 
 noBtn.addEventListener("mouseover", () => {
